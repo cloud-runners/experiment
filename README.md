@@ -1,5 +1,9 @@
 # Experiment
 
+![Rust](https://img.shields.io/badge/rust-2024_edition-orange?logo=rust)
+![axum](https://img.shields.io/badge/axum-0.8.9-blue?logo=rust)
+![tokio](https://img.shields.io/badge/tokio-1.52.1-blue?logo=rust)
+
 A minimal HTTP server written in Rust using [axum](https://github.com/tokio-rs/axum) and [tokio](https://tokio.rs/). Returns `Hello, World!` at the root route.
 
 ## Prerequisites
